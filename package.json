@@ -25,7 +25,7 @@
     "theme/"
   ],
   "dependencies": {
-    "gatsby": "^4.25.0",
+    "gatsby": "^5.16.1",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.1",
-    "@npmcli/template-oss": "4.11.0",
+    "@npmcli/template-oss": "4.29.0",
     "tap": "^16.3.2"
   },
   "author": "GitHub Inc.",
